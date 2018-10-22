@@ -12,3 +12,7 @@ Train your own character and alphabet OCR with pytesseract.
 Red tagging for prediction with confidence score < 80% and blue tagging for confidence >= 80%.
 
 <img src="https://user-images.githubusercontent.com/12294956/47312584-697cfe00-d65a-11e8-95f7-5554a04bb0b8.png">
+
+</br>
+
+<b>NOTE</b>: Current model trained on 10 images of each handwritten characters from (a-z) & (A-Z) and 10 images of each handwritten numbers from (0-9), that's why the prediction accuracy is poor, but with more data the prediction can be improved.
