@@ -15,4 +15,4 @@ Red tagging for prediction with confidence score < 80% and blue tagging for conf
 
 </br>
 
-<b>NOTE</b>: Current model trained on 10 images of each handwritten characters from (a-z) & (A-Z) and 10 images of each handwritten numbers from (0-9), that's why the prediction accuracy is poor, but with more data the prediction can be improved.
+<b>NOTE</b>: Current model was trained on 10 images of each handwritten characters from (a-z) & (A-Z) and 10 images of each handwritten numbers from (0-9), that's why the prediction accuracy is poor, but with more data the prediction can be improved.
