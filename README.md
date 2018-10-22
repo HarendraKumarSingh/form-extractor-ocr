@@ -9,4 +9,6 @@ Train your own character and alphabet OCR with pytesseract.
 <img src="https://user-images.githubusercontent.com/12294956/47312583-697cfe00-d65a-11e8-930a-e15fd67a5bb1.png">
 
 #### Tagged output snippet-
+Red tagging for prediction with confidence score < 80% and blue tagging for confidence >= 80%.
+
 <img src="https://user-images.githubusercontent.com/12294956/47312584-697cfe00-d65a-11e8-95f7-5554a04bb0b8.png">
